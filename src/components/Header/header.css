@@ -1,0 +1,13 @@
+nav{
+    background-color: black;
+    border-bottom: 2px solid white;
+}
+nav .nav-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+nav img{
+    margin: 0 10px;
+}
