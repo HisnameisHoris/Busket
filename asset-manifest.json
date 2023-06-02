@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Busket/static/css/main.dcd84bac.css",
+    "main.js": "/Busket/static/js/main.b36aee1f.js",
+    "index.html": "/Busket/index.html",
+    "main.dcd84bac.css.map": "/Busket/static/css/main.dcd84bac.css.map",
+    "main.b36aee1f.js.map": "/Busket/static/js/main.b36aee1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd84bac.css",
+    "static/js/main.b36aee1f.js"
+  ]
+}
